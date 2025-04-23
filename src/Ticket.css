@@ -1,0 +1,12 @@
+.ticket {
+  margin: 3rem 0;
+}
+
+.ticket span {
+  margin-right: 0.5rem;
+  border: 1px solid black;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
