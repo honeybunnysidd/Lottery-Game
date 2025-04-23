@@ -17,4 +17,4 @@
 
 ## Link :
 
-url : https://lottery-game-jack.netlify.app/
+url : https://lottery-game-sidd.netlify.app/
